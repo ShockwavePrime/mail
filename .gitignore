@@ -27,9 +27,7 @@ env/
 *.bak
 *.tmp
 
-# Media and static files (optional)
-media/
-static/
+
 
 # Django secret key (if you have it in a separate file)
 secret_key.py
