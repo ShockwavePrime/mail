@@ -1,0 +1,35 @@
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+
+# virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swm
+*~
+*.bak
+*.tmp
+
+# Media and static files (optional)
+media/
+static/
+
+# Django secret key (if you have it in a separate file)
+secret_key.py
